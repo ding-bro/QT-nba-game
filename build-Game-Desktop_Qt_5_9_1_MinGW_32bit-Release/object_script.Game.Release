@@ -1,0 +1,16 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\mypushbutton.o
+./release\select_level.o
+./release\play_level.o
+./release\myball.o
+./release\setdata.o
+./release\qrc_res.o
+./release\moc_mainwindow.o
+./release\moc_mypushbutton.o
+./release\moc_select_level.o
+./release\moc_play_level.o
+./release\moc_myball.o
+./release\moc_setdata.o
+);
